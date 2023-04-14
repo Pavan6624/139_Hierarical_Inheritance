@@ -1,0 +1,2 @@
+# 139_Hierarical_Inheritance
+Hierarical lnheritance
